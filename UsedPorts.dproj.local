@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2018.09.03 10:28:16.513,=C:\Users\SercanTEK\Downloads\Compressed\UsedPorts-master\UsedPorts-master\Unit2.pas</Transaction>
+    <Transaction>2018.09.03 10:29:43.472,C:\Users\SercanTEK\Downloads\Compressed\UsedPorts-master\UsedPorts-master\ScanPort.pas=C:\Users\SercanTEK\Downloads\Compressed\UsedPorts-master\UsedPorts-master\Unit2.pas</Transaction>
+    <Transaction>2018.09.03 10:29:43.472,C:\Users\SercanTEK\Downloads\Compressed\UsedPorts-master\UsedPorts-master\ScanPort.dfm=C:\Users\SercanTEK\Downloads\Compressed\UsedPorts-master\UsedPorts-master\Unit2.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
