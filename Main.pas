@@ -175,7 +175,7 @@ begin
             _SPort := FExtendedUdpTable.table[i].dwLocalPort ;   //Source Port
 
             if Strtoint(Port) = _SPort then
-             Form2.ListAdd(Form2.ScanPortList,AppName,inttostr(PID),'UDP',Port,inttostr(_DPort));
+             Form2.ListAdd(Form2.ScanPortList,AppName,inttostr(PID),'UDP',Port,'-');
 
        end;
     finally
